@@ -1,5 +1,5 @@
 
-#Warning
+# Warning
 The makefile does not have --prefix /usr/local/ tag added to the make statements. Add them if necessary.
 
 # Usual compilation
